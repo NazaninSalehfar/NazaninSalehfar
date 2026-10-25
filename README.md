@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Nazanin 👋
 
-<!--
-**NazaninSalehfar/NazaninSalehfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer in training. I build clean, responsive web interfaces with HTML, CSS and vanilla JavaScript.
 
-Here are some ideas to get you started:
+## Projects
+- [Rock Paper Scissors](https://nazaninsalehfar.github.io/rock-paper-scissors-js/): a browser game with score tracking and game-over logic
+- [ZarinPal Landing Page](https://nazaninsalehfar.github.io/zarinpal-landing-page/): a responsive practice recreation of a landing page
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+HTML5 · CSS3 · JavaScript · Git · GitHub
+
+## Currently
+Building more projects and looking for a junior frontend developer role.
